@@ -5,6 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bfdd818-1235-4222-9126-b47fccafa09c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/collect_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convert_asl_to_landmarks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/peace.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/thumbs_up.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gesture_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gesture_labels.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gesture_model_tf.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gesture_recognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prepare_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,21 +37,28 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="34Ln3XnHNvde7n2TtWaLEJjZOth" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.hand_tracking.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.collect_data.executor": "Run",
+    "Python.gesture_recognition.executor": "Run",
+    "Python.hand_tracking.executor": "Run",
+    "Python.prepare_dataset.executor": "Run",
+    "Python.train_model.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="hand_tracking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sign_language_ai" />
@@ -87,5 +105,8 @@
       <updated>1761001520621</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
